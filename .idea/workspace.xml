@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="006152a6-8193-4f18-ad68-6dfdc535ae89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="006152a6-8193-4f18-ad68-6dfdc535ae89" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +23,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -64,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616771056520</updated>
       <workItem from="1616771266399" duration="259000" />
+      <workItem from="1616771591335" duration="36000" />
     </task>
     <servers />
   </component>
@@ -79,17 +72,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771453517" />
-    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1616771495094">
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1616771597927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771495094" />
-    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1616771489120">
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771597927" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1616771621180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="262" key="FileChooserDialogImpl/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771489120" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1616771491444">
+    <state x="740" y="262" key="FileChooserDialogImpl/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771621180" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1616771626312">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="95" key="SettingsEditor/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771491444" />
+    <state x="440" y="95" key="SettingsEditor/-1920.-7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1616771626312" />
   </component>
 </project>
